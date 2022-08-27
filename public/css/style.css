@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+.i-color{
+    color: chartreuse;
+}
+.ss-color{
+    color: silver;
+}
+a.nav-link{
+    color: rgb(250, 250, 250);
+    
+}
